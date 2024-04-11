@@ -1,6 +1,6 @@
 const { poll } = require("../models/pollModel");
 
-demo
+test-case
 /**
  * Getpolls details.
  *
